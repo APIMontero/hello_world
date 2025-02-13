@@ -16,6 +16,8 @@ En la linea de comandos y pulsando la tecla de intro o enter , dando como result
         │   ├── mayor
         │   ├── suma_pares
         │   └── variables_e_s
+        ├── img
+        │   └── proyecto_git_hub.png
         ├── main.rs
         ├── mayor.rs
         ├── readme.md
